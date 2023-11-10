@@ -2,7 +2,7 @@
 HeartSync a Flutter app designed for couples to elevate their connection.
 
 
-![HeartSync Logo](link_to_your_logo.png)
+![HeartSync Logo](https://github.com/introvert024/HeartSync/blob/main/HeartSync.png)
 
 HeartSync is a Flutter app designed to enhance the connection between couples by providing a unique platform for real-time communication and shared experiences.
 
@@ -14,17 +14,7 @@ HeartSync is a Flutter app designed to enhance the connection between couples by
 - **Live Movie Session:** Watch movies together in real-time, no matter the distance.
 - **Live Location:** Stay connected with your partner through real-time location sharing.
 
-## Getting Started
-
-### Prerequisites
-
-- Flutter installed on your machine. [Flutter Installation Guide](https://flutter.dev/docs/get-started/install)
 
 ### Installation
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/HeartSync.git
-cd HeartSync
-
+1. Download from the link --- [Download Heart Sync(soon](https://link)
